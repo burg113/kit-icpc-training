@@ -1,103 +1,104 @@
 ## Algorithm
- - 2-SAT
- - mo's algorithm
+ - [x] 2-SAT
+ - [ ] mo's algorithm
     - sweepline mo (without log) 
 
 ## Optimisations
- - SIMD
- - cache efficient memory access
+ - [ ] SIMD [Sebastian]
+ - [ ] cache efficient memory access
 
 ## Trees
- - rerouting
- - data structures in tree dps (smaller into larger)
+ - [ ] rerouting
+ - [ ] data structures in tree dps (smaller into larger)
  
 
 ## Graphs
  - graph modelierung
-    - min cut modelierung
-    - build data structures into graphs [sebastian]
+    - [ ] min cut modelierung
+    - [ ] build data structures into graphs [Sebastian]
 
  
 ## Dynamic programming
  
- - monotone stacks
- - function convex hull
+ - [x] monotone stacks
+ - [ ] function convex hull
  
- - well-known-at-io
- - advanced dp optimizations
+ - [ ] well-known-at-ioi [Lucas]
+ - [ ] advanced dp optimizations
     - alien trick
     - ...
 
- - devide an conquer
+ - [ ] devide an conquer
     - reduce dp transitions
  
- - bitmask-dp
+ - [ ] bitmask-dp
 
 
 ## Math
- - burnsides lemma
+ - [ ] burnsides lemma
  
- - linear recurrences
+ - [ ] linear recurrences
  1. how to find on paper + berlecamp massey 
  2. how to evaluate (matrix exponentiation / polynom magic)
  
- - inclusion/ exclusion
+ - [ ] inclusion/ exclusion
  
- - bitwise convolutions
+ - [ ] bitwise convolutions
  
- - ftt & ntt
+ - [ ] ftt & ntt
     - dp by polynom multiplication
     - wildcard pattern matching
  
- - generatic functions
+ - [ ] generatic functions
     - 'combinatorial species'
  
- - numeric integration
- - polynom interpolation
+ - [ ] numeric integration
+ - [ ] polynom interpolation
  
  
  ## Datastructure  
- - fenwick tree & polcy based ds
+ - [ ] fenwick tree & polcy based ds
  
- - simpler data structures (replace treap by map + pointer / linked list)
+ - [ ] simpler data structures (replace treap by map + pointer / linked list) [Lennart]
 
- - persistance / undo
+ - [ ] persistance / undo
     - segtree
     - union find (likeley no full persistance)
     - (treap)
 
- - li chao trees
+ - [ ] li chao trees
  
- - bitset
+ - [x] bitset
 
- - top down segment trees
+ - [ ] top down segment trees
     - ...
 
- - advanced seg tree-combines
+ - [ ] advanced seg tree-combines
     - smaller into larger
     - monotone stack 
     - matrix multiply (u-up)
 
- - delitions in addition only DS 
+ - [ ] delitions in addition only DS 
     - dynamic connectivity
 
 
 ## Strings
- - suffix tree
- - ahocorasick 
+ - [ ] suffix tree
+ - [ ] ahocorasick 
  - ...
 
 ## Geometry
- - don't do geometry (hard problems that look easy)
- - picks theorem
- - bentley oddman
- - minkowski sum
- - voronoi & delauni triangulierung
+ - [ ] don't do geometry (hard problems that look easy)
+ - [x] picks theorem
+ - [ ] bentley oddman
+ - [ ] minkowski sum
+ - [ ] voronoi & delauni triangulierung
  
  
 ## Game theory
- - grundy numbers
- - typical games 
+ - [x] basics
+ - [ ] grundy numbers
+ - [ ] typical games 
     - symetrical matrix games
     - ...
  
