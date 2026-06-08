@@ -56,8 +56,8 @@
  - [ ] polynom interpolation
  
  
- ## Datastructure  
- - [ ] fenwick tree & polcy based ds
+ ## Datastructure 
+ - [x] fenwick tree & polcy based ds
  
  - [ ] simpler data structures (replace treap by map + pointer / linked list) [Lennart]
 
@@ -88,7 +88,7 @@
  - ...
 
 ## Geometry
- - [ ] don't do geometry (hard problems that look easy)
+ - [x] don't do geometry (hard problems that look easy)
  - [x] picks theorem
  - [ ] bentley oddman
  - [ ] minkowski sum
