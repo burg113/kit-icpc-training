@@ -8,7 +8,7 @@
  - [ ] cache efficient memory access
 
 ## Trees
- - [ ] rerouting
+ - [x] rerouting
  - [ ] data structures in tree dps (smaller into larger)
  
 
@@ -97,7 +97,7 @@
  
 ## Game theory
  - [x] basics
- - [ ] grundy numbers
+ - [x] grundy numbers
  - [ ] typical games 
     - symetrical matrix games
     - ...
