@@ -31,7 +31,7 @@
  - [ ] devide an conquer
     - reduce dp transitions
  
- - [ ] bitmask-dp
+ - [x] bitmask-dp
 
 
 ## Math
