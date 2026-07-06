@@ -49,7 +49,7 @@
     - dp by polynom multiplication
     - wildcard pattern matching
  
- - [ ] generatic functions
+ - [x] generatic functions
     - 'combinatorial species'
  
  - [ ] numeric integration
