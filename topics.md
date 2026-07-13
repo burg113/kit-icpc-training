@@ -50,7 +50,7 @@
     - wildcard pattern matching
  
  - [x] generatic functions
-    - 'combinatorial species'
+    - [x] 'combinatorial species'
  
  - [ ] numeric integration
  - [ ] polynom interpolation
