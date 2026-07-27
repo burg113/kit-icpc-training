@@ -78,7 +78,7 @@
     - monotone stack 
     - matrix multiply (u-up)
 
- - [ ] delitions in addition only DS 
+ - [x] deletions in addition only DS
     - dynamic connectivity
 
 
