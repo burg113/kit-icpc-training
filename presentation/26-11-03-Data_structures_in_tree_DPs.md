@@ -1,3 +1,8 @@
+03.11.2026
+Sebastian Kirmayer
+
+# Data structures in tree DPs
+
 ## Smaller-into-larger
 
 Consider the following problem:
