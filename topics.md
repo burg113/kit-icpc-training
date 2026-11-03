@@ -9,7 +9,7 @@
 
 ## Trees
  - [x] rerouting
- - [ ] data structures in tree dps (smaller into larger)
+ - [x] data structures in tree dps (smaller into larger)
  
 
 ## Graphs
